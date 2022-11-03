@@ -9,7 +9,7 @@ Overall stock perfomance in green stocks was much stronger in 2017 than in 2018 
 Refractored Code Run-Time: 0.03125 seconds
 Module 2 Code Run-Time: 0.390625 seconds 
 
-##Summary
+## Summary
 A couple advantaged of refactoring code include easier maintainance of the code, improved legibility, as well as the ability to write more efficient and cleaner code as outlined in this excersize.
 
 Some dissadvantaged of refactoring code include additional debuggin steps as a result of code minipulation, more efficient code could be more comprehensive and harder to follow, as well as coordination amoungst a team to efficiently communicate and refactor the code. 
